@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bgingame.jpg</file>
+        <file>covid.png</file>
+        <file>player0909.png</file>
+        <file>laser1.png</file>
+        <file>laser2.png</file>
+        <file>laser3.png</file>
+        <file>laser4.png</file>
+        <file>covid1.png</file>
+        <file>shot.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sound.mp3</file>
+    </qresource>
+</RCC>
